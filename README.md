@@ -20,13 +20,13 @@ I am a dynamic and results-driven software engineer with over a decade of indust
 - JavaScript, TypeScript, Node.js, Python, HTML, CSS
 
 ### Frameworks
-- React.js, Next.js, Vue.js, Nuxt.js, Angular, Express.js, Nest.js, Python
+- React.js, Next.js, Vue.js, Nuxt.js,  Express.js, Nest.js, Python
 
 ### Databases
 - PostgreSQL, MySQL, MongoDB, Firebase, Redis
 
 ### Cloud & Tools
-- AWS, GCP, Azure, Linux, Docker, CI/CD, GitHub Actions
+- AWS, GCP, Docker, CI/CD, GitHub Actions
 
 ### Web Technologies
 - GraphQL, REST APIs, Websockets, RabbitMQ, Microservices, XML
