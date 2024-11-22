@@ -60,7 +60,7 @@ I am a dynamic and results-driven software engineer with minimun of 3 years indu
 - **FuelMyHustle**: Led a team to develop a travel tech platform, securing significant funding and achieving substantial user growth.
 
 ## 🌱 Currently Learning
-- Advanced FastApi, Django andCloud.
+- Advanced FastApi, Django and Cloud.
 - New frameworks and technologies to enhance my development skills.
 - Backend, CloudDevOps
 
@@ -77,7 +77,7 @@ I am a dynamic and results-driven software engineer with minimun of 3 years indu
 
 
 ## 💬 Ask Me About
-- Full-stack development, Cloud, DevOps, and software engineering.
+- Frontend,  Backend, Cloud, DevOps.
 - Innovation in tech startups and entrepreneurship.
 - Project management and team leadership.
 - Agile and Scrum methodologies.
