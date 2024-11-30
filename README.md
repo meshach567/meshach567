@@ -1,4 +1,4 @@
-# Note this is my new github repository. My previous github repo was suspend during March 1st. I lost access to my primary gmail acccount, so i can get the OTP sent to me by email meshachfresh@gmail.com. I have tried to recover it but nothing work, so i created this during April. 
+# Note this is my new github repository. My previous github repo was suspend during March 1st. I lost access to my primary gmail acccount, so i can get the OTP sent to me by email meshachfresh@gmail.com. I have tried to recover it but nothing work, so i created this Github repo during June. 
 - **Previous Github Account User**: [Meshach Arinze](https://www.github.com/MeshachArinze)
 
 # Hi there, I'm Meshach Arinze! 👋
