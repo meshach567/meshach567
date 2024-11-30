@@ -1,3 +1,6 @@
+# Note this is my new github repository. My previous github repo was suspend during March 1st. I lost access to my primary gmail acccount, so i can get the OTP sent to me by github
+- **Previous Github Account User**: [Meshach Arinze](https://www.github.com/MeshachArinze)
+
 # Hi there, I'm Meshach Arinze! 👋
 
 Welcome to my GitHub profile. I am a Fullstack Engineer with a strong background in Frontend. My journey in a tech has equipped me with the skills to lead and innovate in the tech industry. Here’s a bit about me and what I do:
