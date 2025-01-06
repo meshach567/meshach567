@@ -42,7 +42,7 @@ I am a dynamic and results-driven software engineer with minimun of 3 years indu
 
 
 ## 🏆 Key Accomplishments
-- **Lead Developer at 10billions**: Achieved impressive user traction and growth.
+- **Frontend Developer at 10billions**: Achieved impressive user traction and growth.
 - **Back End Engineer at Zormor**: Build the Event Feature for booking.
 
 ## 📚 Education
@@ -63,7 +63,7 @@ I am a dynamic and results-driven software engineer with minimun of 3 years indu
 - **FuelMyHustle**: Led a team to develop a travel tech platform, securing significant funding and achieving substantial user growth.
 
 ## 🌱 Currently Learning
-- Advanced FastApi, Django and Cloud.
+-  FastApi, Django and Cloud.
 - New frameworks and technologies to enhance my development skills.
 - Backend, CloudDevOps
 
