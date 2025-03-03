@@ -73,7 +73,7 @@ I am a dynamic and results-driven Frontend engineer with 4 years industry experi
   ## 📫 How to Reach Me
 - **Email**: [meshacharinze@gmail.com](mailto:meshacharinze@gmail.com)
 - **LinkedIn**: [meshach-ekene](https://www.linkedin.com/in/meshacg-ekene)
-- **Personal Website**: [https://devsfolio-nine.vercel.app/](https://devsfolio-nine.vercel.app/)
+- **Personal Website**: [https://portfoliomeshach.vercel.app/](https://portfoliomeshach.vercel.app/)
 - **GitHub**: [github.com/meshach567](https://github.com/meshach567)
 - **StackOverflow**: [stackoverflow.com/story/meshach](https://stackoverflow.com/story/meshach)
 
