@@ -1,4 +1,3 @@
-# Note this is my new github repository. My previous github repo was suspend during March 1st. I lost access to my primary gmail acccount, so i can get the OTP sent to me by email meshachfresh@gmail.com. I have tried to recover it but nothing work, so i created this Github repo during June. 
 - **Previous Github Account User**: [Meshach Arinze](https://www.github.com/MeshachArinze)
 
 # Hi there, I'm Meshach Arinze! 👋
@@ -6,7 +5,7 @@
 Welcome to my GitHub profile. I am a Fullstack Engineer with a strong background in Frontend. My journey in a tech has equipped me with the skills to lead and innovate in the tech industry. Here’s a bit about me and what I do:
 
 ## 🚀 Professional Summary
-I am a dynamic and results-driven software engineer with minimun of 3 years industry experience in frontend and 2 years of backend. My expertise spans full-stack development, team leadership, and project management. I excel in collaborative environments and have a strong commitment to delivering high-quality, scalable code.
+I am a dynamic and results-driven Frontend engineer with 4 years industry experience in frontend. My expertise spans full-stack development, team leadership, and project management. I excel in collaborative environments and have a strong commitment to delivering high-quality, scalable code.
 
 ## 🛠 Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
