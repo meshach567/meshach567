@@ -11,7 +11,6 @@ I am a dynamic and results-driven Frontend engineer with 4 years industry experi
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
@@ -62,9 +61,8 @@ I am a dynamic and results-driven Frontend engineer with 4 years industry experi
 - **FuelMyHustle**: Led a team to develop a travel tech platform, securing significant funding and achieving substantial user growth.
 
 ## 🌱 Currently Learning
--  FastApi, Django and Cloud.
+-  Rust, Python.
 - New frameworks and technologies to enhance my development skills.
-- Backend, CloudDevOps
 
 ## 👯 Looking to Collaborate On
 - Open-source projects involving AI, machine learning, and web development.
@@ -79,15 +77,13 @@ I am a dynamic and results-driven Frontend engineer with 4 years industry experi
 
 
 ## 💬 Ask Me About
-- Frontend,  Backend, Cloud, DevOps.
+- Frontend,  Backend
 - Innovation in tech startups and entrepreneurship.
 - Project management and team leadership.
 - Agile and Scrum methodologies.
 
 
 ## ⚡ Fun Fact
-
-I love traveling, exploring new cultures, and have a passion for outdoor activities. When not coding, you might find me enjoying movies or nightlife!
 
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build something amazing together!
