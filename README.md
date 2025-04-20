@@ -2,7 +2,7 @@
 
 # Hi there, I'm Meshach Arinze! 👋
 
-Welcome to my GitHub profile. I am a Fullstack Engineer with a strong background in Frontend. My journey in a tech has equipped me with the skills to lead and innovate in the tech industry. Here’s a bit about me and what I do:
+Welcome to my GitHub profile. I am a Frontend Engineer with a strong background in Frontend. My journey in tech has equipped me with the skills to lead and innovate in the tech industry. Here’s a bit about me and what I do:
 
 ## 🚀 Professional Summary
 I am a dynamic and results-driven Frontend engineer with 4 years industry experience in frontend. My expertise spans full-stack development, team leadership, and project management. I excel in collaborative environments and have a strong commitment to delivering high-quality, scalable code.
