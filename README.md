@@ -5,7 +5,7 @@
 Welcome to my GitHub profile. I am a Frontend Engineer with a strong background in Frontend. My journey in tech has equipped me with the skills to lead and innovate in the tech industry. Here’s a bit about me and what I do:
 
 ## 🚀 Professional Summary
-I am a dynamic and results-driven Frontend engineer with 4 years industry experience in frontend. My expertise spans full-stack development, team leadership, and project management. I excel in collaborative environments and have a strong commitment to delivering high-quality, scalable code.
+I am a dynamic and results-driven Frontend engineer with 4 years industry experience in frontend. I excel in collaborative environments and have a strong commitment to delivering high-quality, scalable code.
 
 ## 🛠 Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -21,7 +21,7 @@ I am a dynamic and results-driven Frontend engineer with 4 years industry experi
 - JavaScript, TypeScript, Node.js, Python, HTML, CSS
 
 ### Frameworks
-- React.js, Next.js, Vue.js, Nuxt.js,  Express.js, Nest.js, Python
+- React.js, Next.js, Angular.js, Express.js, Nest.js, Python
 
 ### Databases
 - PostgreSQL, MySQL, MongoDB, Firebase, Redis
@@ -65,7 +65,7 @@ I am a dynamic and results-driven Frontend engineer with 4 years industry experi
 - New frameworks and technologies to enhance my development skills.
 
 ## 👯 Looking to Collaborate On
-- Open-source projects involving AI, machine learning, and web development.
+- Open-source projects involving AI, Blockchain, and web development.
 - Innovative startups aiming to disrupt their industries with cutting-edge tech.
 
   ## 📫 How to Reach Me
@@ -73,7 +73,6 @@ I am a dynamic and results-driven Frontend engineer with 4 years industry experi
 - **LinkedIn**: [meshach-ekene](https://www.linkedin.com/in/meshacg-ekene)
 - **Personal Website**: [https://portfoliomeshach.vercel.app/](https://portfoliomeshach.vercel.app/)
 - **GitHub**: [github.com/meshach567](https://github.com/meshach567)
-- **StackOverflow**: [stackoverflow.com/story/meshach](https://stackoverflow.com/story/meshach)
 
 
 ## 💬 Ask Me About
