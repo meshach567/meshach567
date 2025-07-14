@@ -2,10 +2,10 @@
 
 # Hi there, I'm Meshach Arinze! 👋
 
-Welcome to my GitHub profile. I am a Frontend Engineer with a strong background in Frontend. My journey in tech has equipped me with the skills to lead and innovate in the tech industry. Here’s a bit about me and what I do:
+Welcome to my GitHub profile. I am a Frontend FullStack Developer with a strong background in Frontend. My journey in tech has equipped me with the skills to lead and innovate in the tech industry. Here’s a bit about me and what I do:
 
 ## 🚀 Professional Summary
-I am a dynamic and results-driven Frontend engineer with 4 years industry experience in frontend. I excel in collaborative environments and have a strong commitment to delivering high-quality, scalable code.
+I am a dynamic and results-driven Frontend Engineer with 4 years industry experience in frontend. I excel in collaborative environments and have a strong commitment to delivering high-quality, scalable code.
 
 ## 🛠 Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -18,7 +18,7 @@ I am a dynamic and results-driven Frontend engineer with 4 years industry experi
 ![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-black?style=flat-square&logo=amazon-aws)
 
 ### Languages
-- JavaScript, TypeScript, Node.js, Python, HTML, CSS
+- TypeScript, Node.js, Python, HTML, CSS
 
 ### Frameworks
 - React.js, Next.js, Angular.js, Express.js, Nest.js, Python
@@ -31,6 +31,9 @@ I am a dynamic and results-driven Frontend engineer with 4 years industry experi
 
 ### Web Technologies
 - GraphQL, REST APIs, Websockets, RabbitMQ, Microservices, XML
+
+### CMS
+- WordPress
 
 ### Other
 - Scrum, Jira, Agile, Unit/E2E Testing, Git/GitHub, Code Review, Application & Network Security, Swagger, Project Management, Leadership, Problem-solving, Good Communication, Team Collaboration, Design Thinking.
